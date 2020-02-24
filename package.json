@@ -1,0 +1,23 @@
+{
+  "name": "novel",
+  "version": "1.0.0",
+  "description": "金庸小说电子书，前4本手动构建，后4本自动化构建",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangyan135/novel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangyan135/novel/issues"
+  },
+  "homepage": "https://github.com/zhangyan135/novel#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
